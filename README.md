@@ -26,6 +26,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+### Good Design, Bad Design
+Description of assignment.
+
+```markdown
+
+Test
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
