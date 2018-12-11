@@ -10,6 +10,24 @@ Aside from design relating to user's experience, I like dance, draw, write poetr
 ### My Design Process
 ```markdown
 Test Test Test Test Test Test Test Test Test Test Test Test
+
+~ Prototyping ~
+
+During the creation of our projects, there were multiple 
+times when time and energy could have been saved, if we had 
+spent the time to prototype our ideas before implementing 
+them. I have noticed that in the projects where I dedicated 
+significant time to sketching and creating mock-ups, the 
+quality of the final product was much higher as I had much 
+more time to spend on the implementation and focusing on 
+details. 
+
+The most effective prototyping scheme I have used is to 
+first create paper sketches, then paper prototypes, and 
+lastly mock-ups where you can see a more design focused 
+model. Below are the three examples that I just listed, 
+which were used for the Design for Others project regarding 
+the rebuilding of Technocopia's website. 
 ```
 
 ### Good Design, Bad Design
