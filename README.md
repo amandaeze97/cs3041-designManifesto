@@ -9,6 +9,7 @@ Aside from design relating to user's experience, I like dance, draw, write poetr
 
 ### Good Design, Bad Design
 ![Image](images/good-or-bad.png)
+
 Description of assignment.
 
 ```markdown
@@ -16,6 +17,8 @@ Test
 ```
 
 ### Design for Others
+![Image](images/mobile-friendly.png)
+
 Description of assignment.
 
 ```markdown
@@ -23,6 +26,8 @@ Test
 ```
 
 ### Design for Understanding
+![Image](images/graphs.jpg)
+
 Description of assignment.
 
 ```markdown
@@ -30,6 +35,8 @@ Test
 ```
 
 ### Design for Well-being
+![Image](images/emotions.png)
+
 Description of assignment.
 
 ```markdown
@@ -37,6 +44,8 @@ Test
 ```
 
 ### Design for Another World
+![Image](images/VR.png)
+
 Description of assignment.
 
 ```markdown
