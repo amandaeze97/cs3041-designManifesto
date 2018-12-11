@@ -11,7 +11,14 @@ Aside from design relating to user's experience, I like dance, draw, write poetr
 ```markdown
 Test Test Test Test Test Test Test Test Test Test Test Test
 
-~ Prototyping ~
+                  **~ Brainstorming ~**
+
+Paragraph 1
+
+Paragraph 2
+
+
+                   **~ Prototyping ~**
 
 During the creation of our projects, there were multiple 
 times when time and energy could have been saved, if we 
@@ -28,6 +35,20 @@ lastly mock-ups where you can see a more design focused
 model. Below are the three examples that I just listed, 
 which were used for the Design for Others project regard-
 ing the rebuilding of Technocopia's website. 
+
+                  **~ User Feedback ~**
+                   
+Paragraph 1
+
+Paragraph 2
+        
+
+                   **~ Finalization ~**
+
+Paragraph 1
+
+Paragraph 2
+
 ```
 
 ### Good Design, Bad Design
