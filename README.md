@@ -9,7 +9,7 @@ Aside from design relating to user's experience, I like dance, draw, write poetr
 
 ### My Design Process
 
-Test Test Test Test Test Test Test Test Test Test Test Test
+Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test
 
                     **~ Brainstorming ~**
 
