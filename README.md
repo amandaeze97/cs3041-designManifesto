@@ -11,7 +11,7 @@ Aside from design relating to user's experience, I like dance, draw, write poetr
 
 Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test
 
-                                                        **~ Brainstorming ~**
+                                             **~ Brainstorming ~**
 
 Paragraph 1
 
