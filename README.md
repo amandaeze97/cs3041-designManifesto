@@ -14,19 +14,20 @@ Test Test Test Test Test Test Test Test Test Test Test Test
 ~ Prototyping ~
 
 During the creation of our projects, there were multiple 
-times when time and energy could have been saved, if we had 
-spent the time to prototype our ideas before implementing 
-them. I have noticed that in the projects where I dedicated 
-significant time to sketching and creating mock-ups, the 
-quality of the final product was much higher as I had much 
-more time to spend on the implementation and focusing on 
-details. 
+times when time and energy could have been saved, if we 
+had spent the time to prototype our ideas before implement-
+ing them. I have noticed that in the projects where I 
+dedicated significant time to sketching and creating mock-
+ups, the quality of the final product was much higher as I 
+had much more time to spend on the implementation and 
+focusing on details. 
 
 The most effective prototyping scheme I have used is to 
 first create paper sketches, then paper prototypes, and 
 lastly mock-ups where you can see a more design focused 
 model. Below are the three examples that I just listed, 
-which were used for the Design for Others project regarding 
+which were used for the Design for Others project regard-
+ing 
 the rebuilding of Technocopia's website. 
 ```
 
