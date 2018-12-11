@@ -1,6 +1,6 @@
 ## Amanda Ezeobiejesi
 
-Hello! I am a student currently studying Computer Science at Worcester Polytechnic Institute. I am from Lagos, Nigeria, but grew up in Southern California.
+Hi! I'm a student at Worcester Polytechnic Institute currently studying Computer Science. I am from Lagos, Nigeria, but grew up in Southern California.
 
 This page includes some of the projects I have been working on in my Human Computer Interaction class, as well as some of my concluding thoughts on what a good design looks like and how it can be reached. 
 
@@ -8,7 +8,7 @@ Aside from design relating to user's experience, I like dance, draw, write poetr
 
 
 ### My Design Process
-```markdown
+
 Test Test Test Test Test Test Test Test Test Test Test Test
 
                   **~ Brainstorming ~**
@@ -20,21 +20,22 @@ Paragraph 2
 
                    **~ Prototyping ~**
 
-During the creation of our projects, there were multiple 
-times when time and energy could have been saved, if we 
-had spent the time to prototype our ideas before imple-
-menting them. I have noticed that in the projects where I 
-dedicated significant time to sketching and creating mock-
-ups, the quality of the final product was much higher as 
-I had much more time to spend on the implementation and 
-focusing on details. 
+During the creation of the projects with my various team 
+members througout the term, there were multiple times when
+time and energy could have been saved, if we had taken the 
+time necessary to prototype our ideas before implementing 
+them. I noticed that in the projects where I dedicated sig-
+nificant time to sketching and creating mock-up versions of
+the product, the quality of the final product was much 
+higher. I had more time to spend on the implementation and 
+focus on the details. 
 
-The most effective prototyping scheme I have used is to 
-first create paper sketches, then paper prototypes, and 
-lastly mock-ups where you can see a more design focused 
-model. Below are the three examples that I just listed, 
-which were used for the Design for Others project regard-
-ing the rebuilding of Technocopia's website. 
+To create prototypes, I fitst created paper sketched, which
+were made into paper prototypes, and lastly into mock-up 
+versions of a more design focused model. Below are the 
+three examples that I just listed, which were used for the 
+Design for Others project regarding the rebuilding of 
+Technocopia's website. 
 
                   **~ User Feedback ~**
                    
@@ -49,7 +50,7 @@ Paragraph 1
 
 Paragraph 2
 
-```
+
 
 ### Good Design, Bad Design
 ![Image](images/good-or-bad.png)
