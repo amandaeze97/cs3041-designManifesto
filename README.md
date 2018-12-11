@@ -7,6 +7,35 @@ This page includes some of the projects I have been working on in my Human Compu
 Aside from design relating to user's experience, I like dance, draw, write poetry, and hang out with friends.
 
 
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### My Design Process
+```markdown
+Test
+```
+
 ### Good Design, Bad Design
 ![Image](images/good-or-bad.png)
 
@@ -55,36 +84,8 @@ Description of assignment.
 Test
 ```
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Reflection
+### Final Thoughts
 
 Some of the biggest challenges I faced was being unfamilair with some of the new software and libraries used in class such as FlowXO, Affectiva, and AFrame. Since I did not know how to use some of these applications, it took me longer to fully understadn how to use them. Most of the coding languages used in this class I was already familiar with, however I did get to understadn the JavaScript coding language better. Throughout my time in this class, it was nice to be in groups of 4 because it made communication easier and if one perso did not know how to use a particular software, the other team members could help. This was he case for me and I was very lucky to have extremely helpful classmates who were willing to take the time to teach me new things. 
 
 In my future projects I hope to be able to integrate as many of the tools I learned to create a product that really focuses on giving the ultimate experience to users. I really enjoyed being able to explore different realms of the human computer interaction, and this class really spiked an interest and passion in me for design and UX.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
