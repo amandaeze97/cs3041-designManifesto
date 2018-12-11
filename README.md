@@ -20,8 +20,11 @@ The objective of this assignment was to learn how to tell wether a design wasb a
 
 ```markdown
 MEDIUM POSTS
-The good design can be seen [here.](https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f) 
-Bad Design: https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589.
+Good Design: 
+https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f
+
+Bad Design: 
+https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589.
 ```
 
 ### Design for Others
