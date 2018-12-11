@@ -24,14 +24,14 @@ During the creation of the projects with my various team members througout the t
 
 To create prototypes, I fitst created paper sketched, which were made into paper prototypes, and lastly into mock-up versions of a more design focused model. Below are the three examples that I just listed, which were used for the Design for Others project regarding the rebuilding of Technocopia's website. 
 
-                     **~ User Feedback ~**
+                      **~ User Feedback ~**
                    
 Paragraph 1
 
 Paragraph 2
         
 
-                     **~ Finalization ~**
+                      **~ Finalization ~**
 
 Paragraph 1
 
