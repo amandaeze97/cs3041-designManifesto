@@ -11,14 +11,14 @@ Aside from design relating to user's experience, I like dance, draw, write poetr
 
 Test Test Test Test Test Test Test Test Test Test Test Test
 
-                  **~ Brainstorming ~**
+                    **~ Brainstorming ~**
 
 Paragraph 1
 
 Paragraph 2
 
 
-                   **~ Prototyping ~**
+                     **~ Prototyping ~**
 
 During the creation of the projects with my various team 
 members througout the term, there were multiple times when
@@ -37,14 +37,14 @@ three examples that I just listed, which were used for the
 Design for Others project regarding the rebuilding of 
 Technocopia's website. 
 
-                  **~ User Feedback ~**
+                     **~ User Feedback ~**
                    
 Paragraph 1
 
 Paragraph 2
         
 
-                   **~ Finalization ~**
+                     **~ Finalization ~**
 
 Paragraph 1
 
