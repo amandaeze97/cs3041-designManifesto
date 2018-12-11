@@ -35,7 +35,7 @@ Test
 ```
 
 ### Design for Well-being
-![Image](images/emotions.png)
+![Image](images/emotions.jpg)
 
 Description of assignment.
 
