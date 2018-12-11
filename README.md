@@ -24,7 +24,7 @@ Good Design:
 https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f
 
 Bad Design: 
-https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589.
+https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589
 ```
 
 ### Design for Others
