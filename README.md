@@ -10,10 +10,12 @@ Aside from design relating to user's experience, I like dance, draw, write poetr
 ### Good Design, Bad Design
 ![Image](images/good-or-bad.png)
 
-Description of assignment.
+The objective of this assignment In this assignment, your objective is pretty straightforward: start training yourself to think about the design of things around you. Think carefully about how people interact with the digital world. Is it good? Is it bad?
+
+Sometimes these things are obvious, but other times, it turns out that we’ve adapted our behavior to bad design. For us, clumsy becomes normal (for example, WPI’s Banner Web). So take the time to look at interactions with a new eye. Are they really good? Are they actually easy to use?
 
 ```markdown
-Test
+The good design can be seen [here](https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f), and the bad design can be seen [here](https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589).
 ```
 
 ### Design for Others
