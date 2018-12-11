@@ -17,6 +17,7 @@ Sometimes these things are obvious, but other times, it turns out that we’ve a
 ```markdown
 MEDIUM POSTS
 The good design can be seen [here.](https://medium.com) 
+You can even [link to Google!](http://google.com)
 https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f
 Bad Design: https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589.
 ```
