@@ -15,10 +15,9 @@ Test Test Test Test Test Test Test Test Test Test Test Test
 ### Good Design, Bad Design
 ![Image](images/good-or-bad.png)
 
-The objective of this assignment was to learn how to tell wether a design wasb a good or bad one. It helped me to start thinking about the designs around me and how how people interact with the digital world. Below are links to the medium posts about my ideas on some of the good and bad designs of the WPI website, www.wpi.edu. [Link](www.medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f)
+The objective of this assignment was to learn how to tell wether a design wasb a good or bad one. It helped me to start thinking about the designs around me and how how people interact with the digital world. Below are links to the medium posts about my ideas on some of the good and bad designs of the WPI website, www.wpi.edu.
 
-
-You can view the good design [here](https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f) and the bad design [here](https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589)
+[Good Design](https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f) and [Bad Design](https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589).
 
 
 ### Design for Others
