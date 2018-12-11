@@ -15,9 +15,9 @@ The objective of this assignment In this assignment, your objective is pretty st
 Sometimes these things are obvious, but other times, it turns out that we’ve adapted our behavior to bad design. For us, clumsy becomes normal (for example, WPI’s Banner Web). So take the time to look at interactions with a new eye. Are they really good? Are they actually easy to use?
 
 ```markdown
-# MEDIUM POSTS
-Good Design: [Link](https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f)
-Bad Design: [Link](https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589).
+MEDIUM POSTS
+The good design can be seen [here.](https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f) https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f
+Bad Design: https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589.
 ```
 
 ### Design for Others
