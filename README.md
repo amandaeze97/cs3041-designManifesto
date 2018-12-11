@@ -10,15 +10,12 @@ Aside from design relating to user's experience, I like dance, draw, write poetr
 ### Good Design, Bad Design
 ![Image](images/good-or-bad.png)
 
-The objective of this assignment In this assignment, your objective is pretty straightforward: start training yourself to think about the design of things around you. Think carefully about how people interact with the digital world. Is it good? Is it bad?
+The objective of this assignment was to learn how to tell wether a design wasb a good or bad one. It helped me to start thinking about the designs around me and how how people interact with the digital world.
 
-Sometimes these things are obvious, but other times, it turns out that we’ve adapted our behavior to bad design. For us, clumsy becomes normal (for example, WPI’s Banner Web). So take the time to look at interactions with a new eye. Are they really good? Are they actually easy to use?
 
 ```markdown
 MEDIUM POSTS
-The good design can be seen [here.](https://medium.com) 
-You can even [link to Google!](http://google.com)
-https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f
+The good design can be seen [here.](https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f) 
 Bad Design: https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589.
 ```
 
@@ -82,9 +79,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Reflection
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amandaeze97/cs3041-designManifesto/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Some of the biggest challenges I faced was being unfamilair with some of the new software and libraries used in class such as FlowXO, Affectiva, and AFrame. Since I did not know how to use some of these applications, it took me longer to fully understadn how to use them. Most of the coding languages used in this class I was already familiar with, however I did get to understadn the JavaScript coding language better. Throughout my time in this class, it was nice to be in groups of 4 because it made communication easier and if one perso did not know how to use a particular software, the other team members could help. This was he case for me and I was very lucky to have extremely helpful classmates who were willing to take the time to teach me new things. 
+
+In my future projects I hope to be able to integrate as many of the tools I learned to create a product that really focuses on giving the ultimate experience to users. I really enjoyed being able to explore different realms of the human computer interaction, and this class really spiked an interest and passion in me for design and UX.
 
 ### Support or Contact
 
