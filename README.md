@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Amanda Ezeobiejesi
 
-You can use the [editor on GitHub](https://github.com/amandaeze97/cs3041-designManifesto/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am a student currently studying Computer Science at Worcester Polytechnic Institute. I am from Lagos, Nigeria, but grew up in Southern California.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page includes some of the projects I have been working on in my Human Computer Interaction class, as well as some of my concluding thoughts on what a good design looks like and how it can be reached. 
+
+Aside from design relating to user's experience, I like dance, draw, write poetry, and hang out with friends.
+
 
 ### Markdown
 
@@ -30,9 +33,37 @@ Syntax highlighted code block
 Description of assignment.
 
 ```markdown
-
 Test
 ```
+
+### Design for Others
+Description of assignment.
+
+```markdown
+Test
+```
+
+### Design for Understanding
+Description of assignment.
+
+```markdown
+Test
+```
+
+### Design for Well-being
+Description of assignment.
+
+```markdown
+Test
+```
+
+### Design for Another World
+Description of assignment.
+
+```markdown
+Test
+```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
