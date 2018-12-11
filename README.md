@@ -8,7 +8,7 @@ Aside from design relating to user's experience, I like dance, draw, write poetr
 
 
 ### Good Design, Bad Design
-![Image]("images/good-or-bad.png")
+![Image](images/good-or-bad.png)
 Description of assignment.
 
 ```markdown
