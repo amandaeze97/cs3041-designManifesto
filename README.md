@@ -9,8 +9,6 @@ Aside from design relating to user's experience, I like dance, draw, write poetr
 
 ### My Design Process
 
-Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test
-
 When it comes to creating a product with the hope of making the user's experience better, it is important to follow the 4 step design process:
 1. Brainstorming
    - this can be done using the 5 design sheet methodology
@@ -20,6 +18,7 @@ When it comes to creating a product with the hope of making the user's experienc
 2. Prototyping
 3. User Testing
 4. Finalization
+
 
                        **~ BRAINSTORMING ~**
 
