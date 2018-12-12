@@ -19,7 +19,7 @@ When it comes to creating a product with the hope of making the user's experienc
 3. User Testing
 4. Finalization
 
-                       **~ BRAINSTORMING ~**
+#### BRAINSTORMING
 
 Paragraph 1
 
