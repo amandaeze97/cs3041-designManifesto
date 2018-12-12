@@ -26,20 +26,20 @@ Paragraph 1
 Paragraph 2
 
 
-                       **~ PROTOTYPING ~**
+#### PROTOTYPING
 
 During the creation of the projects with my various team members througout the term, there were multiple times when time and energy could have been saved, if we had taken the time necessary to prototype our ideas before implementing them. I noticed that in the projects where I dedicated significant time to sketching and creating mock-up versions of the product, the quality of the final product was much higher. I had more time to spend on the implementation and focus on the details. 
 
 To create prototypes, I fitst created paper sketched, which were made into paper prototypes, and lastly into mock-up versions of a more design focused model. Below are the three examples that I just listed, which were used for the Design for Others project regarding the rebuilding of Technocopia's website. 
 
-                      **~ USER FEEDBACK ~**
+#### USER FEEDBACK
                    
 Paragraph 1
 
 Paragraph 2
         
 
-                      **~ FINALIZATION ~**
+#### FINALIZATION
 
 Paragraph 1
 
