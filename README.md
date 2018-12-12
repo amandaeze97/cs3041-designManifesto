@@ -18,6 +18,7 @@ When it comes to creating a product with the hope of making the user's experienc
 2. Prototyping
 3. User Testing
 4. Finalization
+
                        **~ BRAINSTORMING ~**
 
 Paragraph 1
