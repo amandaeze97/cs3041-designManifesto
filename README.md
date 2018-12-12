@@ -14,9 +14,9 @@ Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test
 When it comes to creating a product with the hope of making the user's experience better, it is important to follow the 4 step design process:
 1. Brainstorming
    - this can be done using the 5 design sheet methodology
-     - **sheet 1**: brainstorming sheet (ideate, filter, categorize, combine, and refine question)
-     - sheets 2, 3, 4: design sheets (layout, meta-information, focus, operations, and discussion)
-     - sheet 5: realization sheet (layout, meta-information, focus, operations, and detail)
+     - **sheet 1**: brainstorming sheet *(ideate, filter, categorize, combine, and refine question)*
+     - **sheets 2, 3, 4**: design sheets *(layout, meta-information, focus, operations, and discussion)*
+     - **sheet 5**: realization sheet *(layout, meta-information, focus, operations, and detail)*
 2. Prototyping
 3. User Testing
 4. Finalization
