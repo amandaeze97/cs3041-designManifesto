@@ -7,6 +7,8 @@ This page includes some of the projects I have been working on in my Human Compu
 
 ### My Design Process
 
+>There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.”< - Milton Glaser
+
 When it comes to creating a product with the hope of making the user's experience better, it is important to follow the 4 step design process:
 1. **Brainstorming**
    - this can be done using the 5 design sheet methodology
