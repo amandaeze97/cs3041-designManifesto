@@ -1,15 +1,15 @@
-<center> ## Amanda Ezeobiejesi </center>
-<center> ### About Me </center>
-<hr>
+## Amanda Ezeobiejesi
+### About Me
 
 Hi! I'm a student at Worcester Polytechnic Institute currently studying Computer Science. I am from Lagos, Nigeria, but grew up in Southern California. When I am not doing schoolwork, I like dance, draw, write poetry, and hang out with friends.
 
 This page includes some of the projects I have been working on in my Human Computer Interaction class, as well as some of my concluding thoughts on what a good design looks like and how it can be reached. 
 
 <br>
+<hr>
 
 ### My Design Process
-<hr>
+
 >#### "There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.”  - Milton Glaser
 
 
@@ -49,6 +49,7 @@ After developing multple prototypes, my group members and I would distribute the
 With the combination of brainsotmringour previous design steps, we can create an intricate, well-designed, and thoroughly tested product to be used. The design process is transferable to any problem. This is true, because at the start of the class, we were working on a mobile application design for a workshop, and then ended with creating a virtual reality experience. We made a chat-bot that would help those who wanted to know more about gun access, but before that we created a webpage that would visualize the number of drivers that got into accidents per state in the United States. All of these are different problems, but were built using the same process, which is why each one came out with a successful solution.
 
 <br><br>
+<hr>
 
 >#### “The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring.”  - Paul Rand
 
