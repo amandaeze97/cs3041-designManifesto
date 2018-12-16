@@ -1,4 +1,5 @@
 ## Amanda Ezeobiejesi
+### About Me
 
 Hi! I'm a student at Worcester Polytechnic Institute currently studying Computer Science. I am from Lagos, Nigeria, but grew up in Southern California. When I am not doing schoolwork, I like dance, draw, write poetry, and hang out with friends.
 
