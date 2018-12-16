@@ -25,7 +25,7 @@ When it comes to creating a product with the hope of making the user's experienc
 3. **User Testing**
    - refers to evaluating a product or service by testing it with representative users, to identify any usability problems, collect qualitative and quantitative data and determine the participant's satisfaction with the product. If feedback is neutral/negative or the value proposition isn’t clear to the user, revise your prototype and run another round of testing.
 4. **Finalization**
-   - ...
+   - uses the feedback provided by the users to complete any changes that need to need to be done and produce the final product
 
 <br>
 
@@ -39,7 +39,7 @@ During the creation of the projects with my various team members througout the t
 
 To create prototypes, I first created paper sketched, which were made into paper prototypes, and lastly into mock-up versions of a more design focused model. Below are the three examples that I just listed, which were used for the Design for Others project regarding the rebuilding of Technocopia's website. 
 
->#### USER FEEDBACK
+>#### USER tESTING
                    
 After developing multple prototypes, my group members and I would distribute them to outside members and ask them to test out the prototypes. We would ask them questions such as what they like, what they wish, and what if? This would give us both directions as to what is working and what can be improved. User feedback in some cases would entirely change the direction of our project, which is why it is important to get feedback as soon as possible. Feedback can't be done to early though, because the users at the beginning do not usually know what they want. Which is why we as the designers/engineers need to create multiple ideas/sketches/protypes. We can then tweek our product once the general mass of users has come to a consensus. 
         
