@@ -7,7 +7,7 @@ This page includes some of the projects I have been working on in my Human Compu
 
 <hr>
 
-### My Design Process
+## My Design Process
 
 >#### "There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.”  - Milton Glaser
 
