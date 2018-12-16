@@ -8,7 +8,7 @@ This page includes some of the projects I have been working on in my Human Compu
 
 ### My Design Process
 
->#### "There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.” - Milton Glaser
+>#### "There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.”  - Milton Glaser
 
 When it comes to creating a product with the hope of making the user's experience better, it is important to follow the 4 step design process:
 1. **Brainstorming**
@@ -44,15 +44,14 @@ After developing multple prototypes, my group members and I would distribute the
 
 With the combination of brainsotmringour previous design steps, we can create an intricate, well-designed, and thoroughly tested product to be used. The design process is transferable to any problem. This is true, because at the start of the class, we were working on a mobile application design for a workshop, and then ended with creating a virtual reality experience. We made a chat-bot that would help those who wanted to know more about gun access, but before that we created a webpage that would visualize the number of drivers that got into accidents per state in the United States. All of these are different problems, but were built using the same process, which is why each one came out with a successful solution.
 
->###### “The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring.”
-- Paul Rand
+>#### “The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring.”  - Paul Rand
 
 ### Good Design, Bad Design
 ![Image](images/good-or-bad.png)
 
 The objective of this assignment was to learn how to tell wether a design was a good or bad one. It helped me to start thinking about the designs around me and how how people interact with the digital world. Below are links to the medium posts about my ideas on some of the good and bad designs of the WPI website.
 
-[Good Design](https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f) and [Bad Design](https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589).
+Medium Posts: [Good Design](https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f) and [Bad Design](https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589).
 
 
 ### Design for Others
@@ -60,25 +59,35 @@ The objective of this assignment was to learn how to tell wether a design was a 
 
 This project involved a group written Medium Post. We were tasked with redesigning a website of a local Worcester business for the demographic of high school students. Furthermore, we were required to design for mobile devices. We decided to redesign the website for Technocopia, a local makerspace in Worcester, to encourage more local teens to learn valuable design design skills while also encouraging them to express themselves through making. Technocopia’s existing website was also very poorly optimized for mobile phones, which factored heavily into our decision. Below is the link to the medium post that discusses our design process with pictures of our designs and user testing.
 
-[Technocopia for High school Students](https://medium.com/@nicolas.pingal/designing-for-others-technocopia-for-high-school-students-174b71d7971f)
+**Medium Post**: [Technocopia for High school Students](https://medium.com/@nicolas.pingal/designing-for-others-technocopia-for-high-school-students-174b71d7971f)
+**Software Used**: [inVision](https://www.invisionapp.com/)
 
 
 ### Design for Understanding
 ![Image](images/graphs.jpg)
 
-[Understanding Bad Drivers](https://medium.com/@amanda.c.eze/understanding-bad-drivers-175b0eae30b8)
+Design for Understanding was a project focused on the different ways to use visual methods to map data from a dataset to communicate information for two different end goals: (1) one for the goal of clear communication and reasoning and (2) the persuasive communication and storytelling. My group and I chose to use the dataset titled “Bad Drivers” in the US from FiveThirtyEight’s story, [Dear Mona, Which State Has the Worst Drivers?](https://fivethirtyeight.com/features/which-state-has-the-worst-drivers/). The source repository of our data can be found [here](https://github.com/fivethirtyeight/data/blob/master/bad-drivers/bad-drivers.csv). Our final visualizations can be viewed [here](https://users.wpi.edu/~eekirschner/BadDriversCS3041.html). Below is the link to the medium post that discusses our design process with pictures of our designs and user testing.
 
+**Medium Post**: [Understanding Bad Drivers](https://medium.com/@amanda.c.eze/understanding-bad-drivers-175b0eae30b8)
+**Software Used**: [Infogram](https://infogram.com/) 
 
 ### Design for Well-being
 ![Image](images/emotions.jpg)
 
-[](https://medium.com/@amanda.c.eze/design-for-wellbeing-bcff57e5a1f4)
+The Design for Well-being assignment was focused on what it means for our computer devices to be attentive to us in ways that haven’t in the past. We were to design an application that responded to user emotions to promote well-being. One of the design requirements for this assignment was to make use of the Affectiva library. Affectiva library makes it easy to use emotions as captured by a users webcam in a web application. My team and I decided to focus on eliciting the emotion of joy and providing the user with a tool they can use to cheer themselves up with. Below is the link to the medium post that discusses our design process with pictures of our designs and user testing.
+
+**Medium Post**: [What Do You Meme?](https://medium.com/@amanda.c.eze/design-for-wellbeing-bcff57e5a1f4)
+**Library Used**: Affectiva
 
 
 ### Design for Another World
 ![Image](images/VR.png)
 
-[The Haunted Museum](https://medium.com/@kendog95/design-for-another-world-af091294189d)
+
+Below is the link to the medium post that discusses our design process with pictures of our designs and user testing.
+
+**Medium Post**: [The Haunted Museum](https://medium.com/@kendog95/design-for-another-world-af091294189d)
+**Software Used**: [A-Frame](https://aframe.io/)
 
 
 ### Final Thoughts
