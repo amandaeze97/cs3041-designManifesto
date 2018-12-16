@@ -1,5 +1,6 @@
 ## Amanda Ezeobiejesi
 ### About Me
+<hr>
 
 Hi! I'm a student at Worcester Polytechnic Institute currently studying Computer Science. I am from Lagos, Nigeria, but grew up in Southern California. When I am not doing schoolwork, I like dance, draw, write poetry, and hang out with friends.
 
@@ -8,7 +9,7 @@ This page includes some of the projects I have been working on in my Human Compu
 <br>
 
 ### My Design Process
-
+<hr>
 >#### "There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.”  - Milton Glaser
 
 
@@ -33,7 +34,6 @@ When it comes to creating a product with the hope of making the user's experienc
 
 Brainstorming and idea processing was what started each project. For Example, in the Design for a Another World, our idea process was what took the majority of time. This was because the idea had to have a distinct purpose. Not only did I learn how to solve problems in regards to the idea, but to make sure I am solving the right problems. We would know which problems to solve by watching how users interact with the problem at hand. In certain situations, we would not tell the user what the problem was and would let them figure it out on their own. In some cases, the problem we thought would be the main focus would not actually be the one. The user could fine an entirely new problem in the starting stages of our process. We also had to make sure that our idea were completed within a deadline which would dictate which scopes of the projects were attainable at certain points. Reading [Ideation](https://www.kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/). 
 
-
 >#### PROTOTYPING
 
 During the creation of the projects with my various team members througout the term, there were multiple times when time and energy could have been saved, if we had taken the time necessary to prototype our ideas before implementing them. I noticed that in the projects where I dedicated significant time to sketching and creating mock-up versions of the product, the quality of the final product was much higher. I had more time to spend on the implementation and focus on the details. 
@@ -52,7 +52,6 @@ With the combination of brainsotmringour previous design steps, we can create an
 
 >#### “The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring.”  - Paul Rand
 
-<br>
 
 ### Good Design, Bad Design
 ![Image](images/good-or-bad.png)
