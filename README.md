@@ -106,9 +106,7 @@ For the final project, Design for Another World, my group and I explored virtual
 
 **Software Used**: [A-Frame](https://aframe.io/)
 
-<br>
 <hr>
-<br>
 
 ### Final Thoughts
 
