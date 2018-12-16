@@ -39,7 +39,7 @@ During the creation of the projects with my various team members througout the t
 
 To create prototypes, I first created paper sketched, which were made into paper prototypes, and lastly into mock-up versions of a more design focused model. Below are the three examples that I just listed, which were used for the Design for Others project regarding the rebuilding of Technocopia's website. 
 
->#### USER tESTING
+>#### USER TESTING
                    
 After developing multple prototypes, my group members and I would distribute them to outside members and ask them to test out the prototypes. We would ask them questions such as what they like, what they wish, and what if? This would give us both directions as to what is working and what can be improved. User feedback in some cases would entirely change the direction of our project, which is why it is important to get feedback as soon as possible. Feedback can't be done to early though, because the users at the beginning do not usually know what they want. Which is why we as the designers/engineers need to create multiple ideas/sketches/protypes. We can then tweek our product once the general mass of users has come to a consensus. 
         
