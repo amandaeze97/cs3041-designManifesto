@@ -37,7 +37,6 @@ To create prototypes, I fitst created paper sketched, which were made into paper
                    
 After developing multple prototypes, my group members and I would distribute them to outside members and ask them to test out the prototypes. We would ask them questions such as what they like, what they wish, and what if? This would give us both directions as to what is working and what can be improved. User feedback in some cases would entirely change the direction of our project, which is why it is important to get feedback as soon as possible. Feedback can't be done to early though, because the users at the beginning do not usually know what they want. Which is why we as the designers/engineers need to create multiple ideas/sketches/protypes. We can then tweek our product once the general mass of users has come to a consensus. 
         
-
 #### FINALIZATION
 
 With the combination of brainsotmringour previous design steps, we can create an intricate, well-designed, and thoroughly tested product to be used. The design process is transferable to any problem. This is true, because at the start of the class, we were working on a mobile application design for a workshop, and then ended with creating a virtual reality experience. We made a chat-bot that would help those who wanted to know more about gun access, but before that we created a webpage that would visualize the number of drivers that got into accidents per state in the United States. All of these are different problems, but were built using the same process, which is why each one came out with a successful solution.
@@ -47,7 +46,7 @@ With the combination of brainsotmringour previous design steps, we can create an
 ### Good Design, Bad Design
 ![Image](images/good-or-bad.png)
 
-The objective of this assignment was to learn how to tell wether a design was a good or bad one. It helped me to start thinking about the designs around me and how how people interact with the digital world. Below are links to the medium posts about my ideas on some of the good and bad designs of the WPI website, www.wpi.edu.
+The objective of this assignment was to learn how to tell wether a design was a good or bad one. It helped me to start thinking about the designs around me and how how people interact with the digital world. Below are links to the medium posts about my ideas on some of the good and bad designs of the WPI website.
 
 [Good Design](https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f) and [Bad Design](https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589).
 
@@ -55,38 +54,28 @@ The objective of this assignment was to learn how to tell wether a design was a 
 ### Design for Others
 ![Image](images/mobile-friendly.png)
 
-Description of assignment.
+This project involved a group written Medium Post. We were tasked with redesigning a website of a local Worcester business for the demographic of high school students. Furthermore, we were required to design for mobile devices. We decided to redesign the website for Technocopia, a local makerspace in Worcester, to encourage more local teens to learn valuable design design skills while also encouraging them to express themselves through making. Technocopia’s existing website was also very poorly optimized for mobile phones, which factored heavily into our decision. Below is the link to the medium post that discusses our design process with pictures of our designs and user testing.
 
-```markdown
-Test
-```
+[Technocopia for High school Students](https://medium.com/@nicolas.pingal/designing-for-others-technocopia-for-high-school-students-174b71d7971f)
+
 
 ### Design for Understanding
 ![Image](images/graphs.jpg)
 
-Description of assignment.
+[Understanding Bad Drivers](https://medium.com/@amanda.c.eze/understanding-bad-drivers-175b0eae30b8)
 
-```markdown
-Test
-```
 
 ### Design for Well-being
 ![Image](images/emotions.jpg)
 
-Description of assignment.
+[](https://medium.com/@amanda.c.eze/design-for-wellbeing-bcff57e5a1f4)
 
-```markdown
-Test
-```
 
 ### Design for Another World
 ![Image](images/VR.png)
 
-Description of assignment.
+[The Haunted Museum](https://medium.com/@kendog95/design-for-another-world-af091294189d)
 
-```markdown
-Test
-```
 
 ### Final Thoughts
 
