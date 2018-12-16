@@ -96,7 +96,7 @@ The Design for Well-being assignment was focused on what it means for our comput
 <br>
 
 ### Design for Another World
-<center> ![Image](images/VR.png) </center>
+![Image](images/VR.png)
 
 For the final project, Design for Another World, my group and I explored virtual reality to consider what it will be like when computation can transport us to another place. Our objective was to design for horror. The idea was to scare or instill fear in the user. While seemingly a horrible goal, studies show that being scared can be cathartic as there is a huge release of emotions. We decided to insert our concept instilling fear into an already established model from A-Frame. After scouring through, we determined the museum model best suited our concept. Our final idea was to create a haunted/corrupted museum that intended to scare. We made use of images, lighting, and music to accomplish this goal.
 
