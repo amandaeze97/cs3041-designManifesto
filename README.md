@@ -51,7 +51,7 @@ With the combination of brainsotmringour previous design steps, we can create an
 
 The objective of this assignment was to learn how to tell wether a design was a good or bad one. It helped me to start thinking about the designs around me and how how people interact with the digital world. Below are links to the medium posts about my ideas on some of the good and bad designs of the WPI website.
 
-Medium Posts: [Good Design](https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f) and [Bad Design](https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589).
+**Medium Posts**: [Good Design](https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f) and [Bad Design](https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589).
 
 
 ### Design for Others
@@ -60,6 +60,7 @@ Medium Posts: [Good Design](https://medium.com/@amanda.c.eze/wpi-website-good-de
 This project involved a group written Medium Post. We were tasked with redesigning a website of a local Worcester business for the demographic of high school students. Furthermore, we were required to design for mobile devices. We decided to redesign the website for Technocopia, a local makerspace in Worcester, to encourage more local teens to learn valuable design design skills while also encouraging them to express themselves through making. Technocopia’s existing website was also very poorly optimized for mobile phones, which factored heavily into our decision. Below is the link to the medium post that discusses our design process with pictures of our designs and user testing.
 
 **Medium Post**: [Technocopia for High school Students](https://medium.com/@nicolas.pingal/designing-for-others-technocopia-for-high-school-students-174b71d7971f)
+
 **Software Used**: [inVision](https://www.invisionapp.com/)
 
 
@@ -69,6 +70,7 @@ This project involved a group written Medium Post. We were tasked with redesigni
 Design for Understanding was a project focused on the different ways to use visual methods to map data from a dataset to communicate information for two different end goals: (1) one for the goal of clear communication and reasoning and (2) the persuasive communication and storytelling. My group and I chose to use the dataset titled “Bad Drivers” in the US from FiveThirtyEight’s story, [Dear Mona, Which State Has the Worst Drivers?](https://fivethirtyeight.com/features/which-state-has-the-worst-drivers/). The source repository of our data can be found [here](https://github.com/fivethirtyeight/data/blob/master/bad-drivers/bad-drivers.csv). Our final visualizations can be viewed [here](https://users.wpi.edu/~eekirschner/BadDriversCS3041.html). Below is the link to the medium post that discusses our design process with pictures of our designs and user testing.
 
 **Medium Post**: [Understanding Bad Drivers](https://medium.com/@amanda.c.eze/understanding-bad-drivers-175b0eae30b8)
+
 **Software Used**: [Infogram](https://infogram.com/) 
 
 ### Design for Well-being
@@ -77,6 +79,7 @@ Design for Understanding was a project focused on the different ways to use visu
 The Design for Well-being assignment was focused on what it means for our computer devices to be attentive to us in ways that haven’t in the past. We were to design an application that responded to user emotions to promote well-being. One of the design requirements for this assignment was to make use of the Affectiva library. Affectiva library makes it easy to use emotions as captured by a users webcam in a web application. My team and I decided to focus on eliciting the emotion of joy and providing the user with a tool they can use to cheer themselves up with. Below is the link to the medium post that discusses our design process with pictures of our designs and user testing.
 
 **Medium Post**: [What Do You Meme?](https://medium.com/@amanda.c.eze/design-for-wellbeing-bcff57e5a1f4)
+
 **Library Used**: Affectiva
 
 
@@ -87,6 +90,7 @@ The Design for Well-being assignment was focused on what it means for our comput
 Below is the link to the medium post that discusses our design process with pictures of our designs and user testing.
 
 **Medium Post**: [The Haunted Museum](https://medium.com/@kendog95/design-for-another-world-af091294189d)
+
 **Software Used**: [A-Frame](https://aframe.io/)
 
 
