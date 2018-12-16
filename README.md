@@ -1,10 +1,8 @@
 ## Amanda Ezeobiejesi
 
-Hi! I'm a student at Worcester Polytechnic Institute currently studying Computer Science. I am from Lagos, Nigeria, but grew up in Southern California.
+Hi! I'm a student at Worcester Polytechnic Institute currently studying Computer Science. I am from Lagos, Nigeria, but grew up in Southern California. When I am not doing schoolwork, I like dance, draw, write poetry, and hang out with friends.
 
 This page includes some of the projects I have been working on in my Human Computer Interaction class, as well as some of my concluding thoughts on what a good design looks like and how it can be reached. 
-
-Aside from design relating to user's experience, I like dance, draw, write poetry, and hang out with friends.
 
 
 ### My Design Process
@@ -20,9 +18,9 @@ When it comes to creating a product with the hope of making the user's experienc
      - low-fidelity = involves the use of basic models or examples of the product being tested, such as storyboarding and sketching
      - high-fidelity = looks and operates closer to the finished product, such as a 3D plastic model with movable parts
 3. **User Testing**
-   - refers to evaluating a product or service by testing it with representative users, to identify any usability problems, collect qualitative and quantitative data and determine the participant's satisfaction with the product
+   - refers to evaluating a product or service by testing it with representative users, to identify any usability problems, collect qualitative and quantitative data and determine the participant's satisfaction with the product. If feedback is neutral/negative or the value proposition isn’t clear to the user, revise your prototype and run another round of testing.
 4. **Finalization**
-   - 
+   - ...
 
 #### BRAINSTORMING
 
@@ -37,14 +35,12 @@ To create prototypes, I fitst created paper sketched, which were made into paper
 
 #### USER FEEDBACK
                    
-Paragraph 1
-
-Paragraph 2
+After developing multple prototypes, my group members and I would distribute them to outside members and ask them to test out the prototypes. We would ask them questions such as what they like, what they wish, and what if? This would give us both directions as to what is working and what can be improved. User feedback in some cases would entirely change the direction of our project, which is why it is important to get feedback as soon as possible. Feedback can't be done to early though, because the users at the beginning do not usually know what they want. Which is why we as the designers/engineers need to create multiple ideas/sketches/protypes. We can then tweek our product once the general mass of users has come to a consensus. 
         
 
 #### FINALIZATION
 
-With the combination of our previous design steps, we can create an intricate, well-designed, and thoroughly tested product to be used. The design process is transferable to any problem. This is true, because at the start of the class, we were working on a mobile application design for a workshop, and then ended with creating a virtual reality experience. We made a chat-bot that would help those who wanted to know more about gun access, but before that we created a webpage that would visualize the number of drivers that got into accidents per state in the United States. All of these are different problems, but were built using the same process, which is why each one came out with a successful solution.
+With the combination of brainsotmringour previous design steps, we can create an intricate, well-designed, and thoroughly tested product to be used. The design process is transferable to any problem. This is true, because at the start of the class, we were working on a mobile application design for a workshop, and then ended with creating a virtual reality experience. We made a chat-bot that would help those who wanted to know more about gun access, but before that we created a webpage that would visualize the number of drivers that got into accidents per state in the United States. All of these are different problems, but were built using the same process, which is why each one came out with a successful solution.
 
 
 
