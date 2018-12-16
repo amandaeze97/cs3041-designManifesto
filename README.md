@@ -47,7 +47,7 @@ With the combination of brainsotmringour previous design steps, we can create an
 
 
 >#### “The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring.”  - Paul Rand
-
+<br><br>
 
 ### Good Design, Bad Design
 ![Image](images/good-or-bad.png)
