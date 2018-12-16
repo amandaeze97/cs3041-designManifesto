@@ -20,8 +20,8 @@ When it comes to creating a product with the hope of making the user's experienc
      - **sheet 5**: realization sheet *(layout, information, focus, operations, and detail)*
 2. **Prototyping**
    - is generally divided into two separate categories: low- and high-fidelity prototyping
-     - low-fidelity = involves the use of basic models or examples of the product being tested, such as storyboarding and sketching
-     - high-fidelity = looks and operates closer to the finished product, such as a 3D plastic model with movable parts
+     - **low-fidelity** = involves the use of basic models or examples of the product being tested, such as storyboarding and sketching
+     - **high-fidelity** = looks and operates closer to the finished product, such as a 3D plastic model with movable parts
 3. **User Testing**
    - refers to evaluating a product or service by testing it with representative users, to identify any usability problems, collect qualitative and quantitative data and determine the participant's satisfaction with the product. If feedback is neutral/negative or the value proposition isn’t clear to the user, revise your prototype and run another round of testing.
 4. **Finalization**
