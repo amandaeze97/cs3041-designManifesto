@@ -1,7 +1,7 @@
 ## Amanda Ezeobiejesi
 ### About Me
 
-Hi! I'm a student at Worcester Polytechnic Institute currently studying Computer Science. I am from Lagos, Nigeria, but grew up in Southern California. When I am not doing schoolwork, I like dance, draw, write poetry, and hang out with friends.
+Hi! I'm a student at Worcester Polytechnic Institute currently studying Computer Science. I am from Lagos, Nigeria, but grew up in Southern California. When I am not doing schoolwork, I like to dance, draw, write poetry, and hang out with friends.
 
 This page includes some of the projects I have been working on in my Human Computer Interaction class, as well as some of my concluding thoughts on what a good design looks like and how it can be reached. 
 
@@ -23,15 +23,16 @@ When it comes to creating a product with the hope of making the user's experienc
      - **low-fidelity** = involves the use of basic models or examples of the product being tested, such as storyboarding and sketching
      - **high-fidelity** = looks and operates closer to the finished product, such as a 3D plastic model with movable parts
 3. **User Testing**
-   - refers to evaluating a product or service by testing it with representative users, to identify any usability problems, collect qualitative and quantitative data and determine the participant's satisfaction with the product. If feedback is neutral/negative or the value proposition isn’t clear to the user, revise your prototype and run another round of testing.
+   - refers to evaluating a product or service by testing it with representative users, to identify any usability problems, collect qualitative and quantitative data, and determine the participant's satisfaction with the product
+   - if the feedback is neutral/negative or the value proposition isn’t clear to the user, the prototype should be revised followed by another round of testing
 4. **Finalization**
-   - uses the feedback provided by the users to complete any changes that need to need to be done and produce the final product
+   - uses the feedback provided by the users to complete any changes that need to be done and produce the final product
 
 <br>
 
 >#### BRAINSTORMING
 
-Brainstorming and idea processing was what started each project. For Example, in the Design for a Another World, our idea process was what took the majority of time. This was because the idea had to have a distinct purpose. Not only did I learn how to solve problems in regards to the idea, but to make sure I am solving the right problems. We would know which problems to solve by watching how users interact with the problem at hand. In certain situations, we would not tell the user what the problem was and would let them figure it out on their own. In some cases, the problem we thought would be the main focus would not actually be the one. The user could fine an entirely new problem in the starting stages of our process. We also had to make sure that our idea were completed within a deadline which would dictate which scopes of the projects were attainable at certain points. Reading [Ideation](https://www.kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/). 
+Each project started off with brainstorming and idea processing. For Example, in the Design for a Another World, our idea process was what took the majority of time. This was because the idea had to have a distinct purpose. Not only did I learn how to solve problems in regards to the idea, but to make sure I was solving the right problems. We would know which problems to solve by watching how users interact with the problem at hand. In certain situations, we would not tell the user what the problem was and would let them figure it out on their own. In some cases, the problem we thought would be the main focus would not actually be the one. The user could find an entirely new problem in the starting stages of our process. We also had to make sure that our idea could be completed before the deadline. Reading [Ideation](https://www.kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/). 
 
 >#### PROTOTYPING
 
@@ -41,11 +42,11 @@ To create prototypes, I first created paper sketched, which were made into paper
 
 >#### USER TESTING
                    
-After developing multple prototypes, my group members and I would distribute them to outside members and ask them to test out the prototypes. We would ask them questions such as what they like, what they wish, and what if? This would give us both directions as to what is working and what can be improved. User feedback in some cases would entirely change the direction of our project, which is why it is important to get feedback as soon as possible. Feedback can't be done to early though, because the users at the beginning do not usually know what they want. Which is why we as the designers/engineers need to create multiple ideas/sketches/protypes. We can then tweek our product once the general mass of users has come to a consensus. Reading [User Testing](https://medium.com/swlh/how-to-do-user-testing-on-a-budget-bc4000d4387)
+After developing multple prototypes, my group members and I would distribute them to outside members and ask them to test out the prototypes. We would ask them questions such as what they like, what they wish, and what if? This would give us both directions as to what was working and what could be improved. User feedback in some cases would entirely change the direction of our project, which was why it was important to get feedback as soon as possible. Feedback couldn't be attained too early though. This is because the users at the beginning do not usually know what they want, which is why we as the designers/engineers, need to create multiple ideas, sketches, and protypes. We can then tweek our product once the general mass of users have come to a consensus. Reading [User Testing](https://medium.com/swlh/how-to-do-user-testing-on-a-budget-bc4000d4387)
         
 >#### FINALIZATION
 
-With the combination of brainsotmringour previous design steps, we can create an intricate, well-designed, and thoroughly tested product to be used. The design process is transferable to any problem. This is true, because at the start of the class, we were working on a mobile application design for a workshop, and then ended with creating a virtual reality experience. We made a chat-bot that would help those who wanted to know more about gun access, but before that we created a webpage that would visualize the number of drivers that got into accidents per state in the United States. All of these are different problems, but were built using the same process, which is why each one came out with a successful solution. Reading [Design Finalization](http://www.hsisensing.com/design-finalization/)
+With the combination of brainstorming our previous design steps, we can create an intricate, well-designed, and thoroughly tested product to be used. The design process is transferable to any problem. This is true because at the start of the class, we were working on a mobile application design for a workshop, and then ended with creating a virtual reality experience. We made a chat-bot that would help those who wanted to know more about gun access, but before that we created a webpage that would visualize the number of drivers that got into accidents per state in the United States. All of these are different problems, but were built using the same process, which is why each one came out with a successful solution. Reading [Design Finalization](http://www.hsisensing.com/design-finalization/)
 
 <hr>
 
