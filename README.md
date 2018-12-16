@@ -10,25 +10,23 @@ Aside from design relating to user's experience, I like dance, draw, write poetr
 ### My Design Process
 
 When it comes to creating a product with the hope of making the user's experience better, it is important to follow the 4 step design process:
-1. Brainstorming
+1. **Brainstorming**
    - this can be done using the 5 design sheet methodology
      - **sheet 1**: brainstorming sheet *(ideate, filter, categorize, combine, and refine question)*
-     - **sheets 2, 3, 4**: design sheets *(layout, meta-information, focus, operations, and discussion)*
-     - **sheet 5**: realization sheet *(layout, meta-information, focus, operations, and detail)*
-2. Prototyping
+     - **sheets 2, 3, 4**: design sheets *(layout, information, focus, operations, and discussion)*
+     - **sheet 5**: realization sheet *(layout, information, focus, operations, and detail)*
+2. **Prototyping**
    - is generally divided into two separate categories: low- and high-fidelity prototyping
      - low-fidelity = involves the use of basic models or examples of the product being tested, such as storyboarding and sketching
      - high-fidelity = looks and operates closer to the finished product, such as a 3D plastic model with movable parts
-3. User Testing
+3. **User Testing**
    - refers to evaluating a product or service by testing it with representative users, to identify any usability problems, collect qualitative and quantitative data and determine the participant's satisfaction with the product
-4. Finalization
+4. **Finalization**
    - 
 
 #### BRAINSTORMING
 
-Paragraph 1
-
-Paragraph 2
+Brainstorming and idea processing was what started each project. For Example, in the Design for a Another World, our idea process was what took the majority of time. This was because the idea had to have a distinct purpose. Not only did I learn how to solve problems in regards to the idea, but to make sure I am solving the right problems. We would know which problems to solve by watching how users interact with the problem at hand. In certain situations, we would not tell the user what the problem was and would let them figure it out on their own. In some cases, the problem we thought would be the main focus would not actually be the one. The user could fine an entirely new problem in the starting stages of our process. We also had to make sure that our idea were completed within a deadline which would dictate which scopes of the projects were attainable at certain points. Reading [Ideation] (https://www.kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/). 
 
 
 #### PROTOTYPING
@@ -46,9 +44,7 @@ Paragraph 2
 
 #### FINALIZATION
 
-Paragraph 1
-
-Paragraph 2
+With the combination of our previous design steps, we can create an intricate, well-designed, and thoroughly tested product to be used. The design process is transferable to any problem. This is true, because at the start of the class, we were working on a mobile application design for a workshop, and then ended with creating a virtual reality experience. We made a chat-bot that would help those who wanted to know more about gun access, but before that we created a webpage that would visualize the number of drivers that got into accidents per state in the United States. All of these are different problems, but were built using the same process, which is why each one came out with a successful solution.
 
 
 
