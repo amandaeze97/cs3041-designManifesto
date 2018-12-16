@@ -8,7 +8,7 @@ This page includes some of the projects I have been working on in my Human Compu
 
 ### My Design Process
 
->There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.”< - Milton Glaser
+>There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.” - Milton Glaser
 
 When it comes to creating a product with the hope of making the user's experience better, it is important to follow the 4 step design process:
 1. **Brainstorming**
@@ -25,7 +25,7 @@ When it comes to creating a product with the hope of making the user's experienc
 4. **Finalization**
    - ...
 
-#### BRAINSTORMING
+> #### BRAINSTORMING
 
 Brainstorming and idea processing was what started each project. For Example, in the Design for a Another World, our idea process was what took the majority of time. This was because the idea had to have a distinct purpose. Not only did I learn how to solve problems in regards to the idea, but to make sure I am solving the right problems. We would know which problems to solve by watching how users interact with the problem at hand. In certain situations, we would not tell the user what the problem was and would let them figure it out on their own. In some cases, the problem we thought would be the main focus would not actually be the one. The user could fine an entirely new problem in the starting stages of our process. We also had to make sure that our idea were completed within a deadline which would dictate which scopes of the projects were attainable at certain points. Reading [Ideation](https://www.kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/). 
 
