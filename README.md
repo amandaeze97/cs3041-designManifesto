@@ -5,6 +5,7 @@ Hi! I'm a student at Worcester Polytechnic Institute currently studying Computer
 
 This page includes some of the projects I have been working on in my Human Computer Interaction class, as well as some of my concluding thoughts on what a good design looks like and how it can be reached. 
 
+<br>
 
 ### My Design Process
 
@@ -26,6 +27,8 @@ When it comes to creating a product with the hope of making the user's experienc
 4. **Finalization**
    - ...
 
+<br>
+
 >#### BRAINSTORMING
 
 Brainstorming and idea processing was what started each project. For Example, in the Design for a Another World, our idea process was what took the majority of time. This was because the idea had to have a distinct purpose. Not only did I learn how to solve problems in regards to the idea, but to make sure I am solving the right problems. We would know which problems to solve by watching how users interact with the problem at hand. In certain situations, we would not tell the user what the problem was and would let them figure it out on their own. In some cases, the problem we thought would be the main focus would not actually be the one. The user could fine an entirely new problem in the starting stages of our process. We also had to make sure that our idea were completed within a deadline which would dictate which scopes of the projects were attainable at certain points. Reading [Ideation](https://www.kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/). 
@@ -45,9 +48,11 @@ After developing multple prototypes, my group members and I would distribute the
 
 With the combination of brainsotmringour previous design steps, we can create an intricate, well-designed, and thoroughly tested product to be used. The design process is transferable to any problem. This is true, because at the start of the class, we were working on a mobile application design for a workshop, and then ended with creating a virtual reality experience. We made a chat-bot that would help those who wanted to know more about gun access, but before that we created a webpage that would visualize the number of drivers that got into accidents per state in the United States. All of these are different problems, but were built using the same process, which is why each one came out with a successful solution.
 
+<br><br>
 
 >#### “The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring.”  - Paul Rand
-<br><br>
+
+<br>
 
 ### Good Design, Bad Design
 ![Image](images/good-or-bad.png)
@@ -56,6 +61,7 @@ The objective of this assignment was to learn how to tell wether a design was a 
 
 **Medium Posts**: [Good Design](https://medium.com/@amanda.c.eze/wpi-website-good-design-a26cd103796f) and [Bad Design](https://medium.com/@amanda.c.eze/wpi-website-bad-design-2d8abb710589).
 
+<br>
 
 ### Design for Others
 ![Image](images/mobile-friendly.png)
@@ -66,6 +72,7 @@ This project involved a group written Medium Post. We were tasked with redesigni
 
 **Software Used**: [inVision](https://www.invisionapp.com/)
 
+<br>
 
 ### Design for Understanding
 ![Image](images/graphs.jpg)
@@ -76,6 +83,8 @@ Design for Understanding was a project focused on the different ways to use visu
 
 **Software Used**: [Infogram](https://infogram.com/) 
 
+<br>
+
 ### Design for Well-being
 ![Image](images/emotions.jpg)
 
@@ -85,10 +94,10 @@ The Design for Well-being assignment was focused on what it means for our comput
 
 **Library Used**: Affectiva
 
+<br>
 
 ### Design for Another World
 ![Image](images/VR.png)
-
 
 For the final project, Design for Another World, my group and I explored virtual reality to consider what it will be like when computation can transport us to another place. Our objective was to design for horror. The idea was to scare or instill fear in the user. While seemingly a horrible goal, studies show that being scared can be cathartic as there is a huge release of emotions. We decided to insert our concept instilling fear into an already established model from A-Frame. After scouring through, we determined the museum model best suited our concept. Our final idea was to create a haunted/corrupted museum that intended to scare. We made use of images, lighting, and music to accomplish this goal.
 
@@ -96,6 +105,7 @@ For the final project, Design for Another World, my group and I explored virtual
 
 **Software Used**: [A-Frame](https://aframe.io/)
 
+<br><br>
 
 ### Final Thoughts
 
